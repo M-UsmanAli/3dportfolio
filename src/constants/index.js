@@ -134,8 +134,8 @@ import {
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Engaged in full-stack development, contributing to both front-end and back-end functionalities.",
+        "Utilized Tailwind CSS to enhance the aesthetic appeal of user interfaces with enhanced motion and animation effects using Framer Motion.",
       ],
     },
     {
@@ -145,10 +145,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Served as a PHP developer and database administrator, contributing to the development and maintenance of the State-life health insurance website.",
+        "Provided customer service support for application version users, addressing queries and ensuring a positive user experience.",
+        "Optimized website performance through systematic analysis and implementation of efficiency measures.",
+        "Implemented various functional modules to enhance the features and capabilities of the State-life website.",
       ],
     },
     {
@@ -158,10 +158,10 @@ import {
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Worked extensively with HTML, ensuring a solid structural foundation for web pages and styled and designed websites using CSS, focusing on visual appeal and user experience.",
+        "Specialized in WordPress development, creating custom themes and plugins to meet project requirements.",
+        "Used JavaScript to enhance interactivity, providing dynamic and engaging features on web pages.",
+        "Managed databases and executed operations with MySQL for efficient data storage and retrieval.",
       ],
     }
   ];
