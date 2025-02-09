@@ -24,7 +24,7 @@ const Hero = () => {
             I develop animated, user <br className="sm:block hidden" />{" "}
             interfaces and web applications.
           </p>
-          <ComputersCanvas/>
+        
           
         </div>
        
